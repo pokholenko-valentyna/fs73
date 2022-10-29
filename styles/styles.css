@@ -1,0 +1,108 @@
+:root{
+    --font-ral: "Raleway"
+    --color-gray
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* .link{
+    list-style: none;} */
+.header a{
+    text-decoration: none;
+}
+.header{
+    background-color: black;
+}
+
+.header-nav-link{
+font-weight: 600;
+font-size: 12px;
+line-height: 1.3333;
+letter-spacing: 0.1em;
+color: #FFFFFF;
+}
+.header-nav-link:hover,
+.header-nav-link:focus{
+    color: #FF6C00;
+}
+.header-nav-link:active{
+    color: #000;
+}
+.header-contact{
+    font-weight: 600;
+font-size: 12px;
+line-height: 1.3333;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+.header-button{
+    font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.uptitle{
+    font-weight: 600;
+font-size: 11px;
+line-height: 15px;
+text-transform: uppercase;
+}
+
+
+
+
+.hero.uptitle{
+    color: rgba(157, 164, 189, 0.6);
+}
+
+
+.about-btn{
+    font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.09em;
+text-transform: uppercase;
+
+color: #303030;
+
+}
+
+
+.prices{
+    background-color: #303030;
+}
+
+.prices-btn{
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.benefits {
+}
+.benefits-list {
+}
+.benefits-item {
+}
+.benefits-count {
+}
+.benefits-plus {
+}
+.benefits-item-text {
+}
